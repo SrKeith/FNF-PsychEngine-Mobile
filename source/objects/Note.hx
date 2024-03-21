@@ -532,4 +532,4 @@ class Note extends FlxSprite
 
 		return rect;
 	}
-}
+			}
